@@ -62,4 +62,4 @@ Query SELECT * FROM department_audit_summary; to see the final audit report
 
 👤 Author :
 
-Parush Tikoo | linkedin.com/in/parush-tikoo | github.com/tikooparush
+Parush Tikoo
